@@ -15,7 +15,7 @@ The tutorial will be held as a _half-day tutorial_ virtually on Monday, February
 ## Foundations and Trends® in Information Retrieval Survey
 The tutorial is based on the Foundations and Trends® in Information Retrieval survey published by the tutorial authors. The aim of the tutorial is to provide a high-level entry point for those interested in the topics of the survey. We will revisit its main themes, and provide pointers on the important papers in each of the fields.
 
-The survey will be available for download [here](http://dx.doi.org/10.1561/1500000069) for the duration of WSDM 2022 (Feb. 21 -- Feb. 25). A pre-print version of the survey will be available for download in the tutorial materials thereafter.
+The journal version of the survey will be available for free download [here](http://dx.doi.org/10.1561/1500000069) for the duration of WSDM 2022 (Feb. 21 -- Feb. 25, 2022). A pre-print version of the survey will be available for download along with other tutorial materials thereafter.
 
 ## Tutorial Materials
 All the available tutorial materials will be archived in this GitHub repository (see above)
