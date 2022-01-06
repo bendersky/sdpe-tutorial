@@ -30,7 +30,7 @@ All the available tutorial materials will be archived in this GitHub repository 
 For any mentions of the work presented in this tutorial, please cite the original survey
 
 <pre><code>
-  @article{INR-069,
+@article{INR-069,
   url = {http://dx.doi.org/10.1561/1500000069},
   year = {2021},
   volume = {15},
