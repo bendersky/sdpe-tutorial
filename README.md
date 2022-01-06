@@ -27,7 +27,7 @@ All the available tutorial materials will be archived in this GitHub repository 
 * Donald Metzler, Google Research
 
 ## Citation
-For any mentions of the work presented in this tutorial, please cite the original survey
+For any mentions of this tutorial tutorial, please cite the original survey
 
 <pre><code>
 @article{INR-069,
