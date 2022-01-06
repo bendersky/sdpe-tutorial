@@ -4,7 +4,7 @@
 Even in the age of social networks, instant messaging, and video conferencing email still remains an important medium for personal and professional communication. In addition, email has grown in importance as a B2C communication channel, and as a repository for recent and past commercial transactions. In the past decade, there has been a resurgence of interest in email search and discovery research, mainly led by industrial research labs such as Yahoo! Research, Microsoft Research, and Google Research. This research has been accompanied by the development of new user-visible features, such as hybrid chronological-relevance search, knowledge panels, assistant integration, and smart composition. In this half day tutorial we will provide an overview of this recent research, as well as a survey of decades of academic research that laid the foundation for these newer developments. Our hope is that this tutorial will lead to better recognition of the unique technologies behind our everyday email tools, and will also inspire researchers to think beyond the scope of the current paradigms.
 
 ## Schedule
-The tutorial will be held as a _half-day tutorial_ virtually on Monday, February 21st, 2022.
+The tutorial will be held as a _virtual half-day tutorial_ on Monday, February 21st, 2022.
 
 ### Topics outline
 *  **Introduction** to the key research challenges and unique properties of email search and discovery.
